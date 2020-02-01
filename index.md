@@ -2,9 +2,7 @@
 
 **温馨提示**: 
 
-- 如遇问题请 [联系技术支持 Support](posts/Support.md);
-
-- 节点需要通过 url 订阅, 请查看 [Url 订阅地址订购规则(未完成)](posts/Pay_for_url.md). 除合作组织外, 其他组织和个人的订阅当前尚处于推广试用阶段, 订购渠道将于 2020.2.15 正式启用.
+- 订购或者遇到问题请 [联系技术支持 Support](posts/Support.md);
 
 ### 电脑
 - [给 Win10 用户的新手安装指南](posts/Win10.md)
@@ -58,7 +56,7 @@
 
 ---
 
-## [点击这里鼓励我们](posts/encourage.md)
+## [点击这里鼓励我们 (订购)](posts/encourage.md)
 
 
 
