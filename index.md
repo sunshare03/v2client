@@ -1,8 +1,6 @@
 ## 各平台安装说明
 
-**温馨提示**: 
-
-- 订购或者遇到问题请 [联系技术支持 Support](posts/Support.md);
+**温馨提示**:  订购或者遇到问题请 [联系技术支持 Support](posts/Support.md);
 
 ### 电脑
 - [给 Win10 用户的新手安装指南](posts/Win10.md)
