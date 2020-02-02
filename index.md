@@ -3,14 +3,14 @@
 **温馨提示**:  订购或者遇到问题请 [联系技术支持 Support](posts/Support.md);
 
 ### 电脑
-- [给 Win10 用户的安装指南](posts/Win10.md)
+- [给 Win10 用户的安装和使用指南](posts/Win10.md)
 
 - [给 MacOS 用户安装和使用指南](posts/MacOS.md)
 
 - Linux 或其他操作系统？请先在手机上翻过这堵再墙查看 [V2ray Project](https://www.v2ray.com/)
 
 ### 手机
-- [给 Android 用户的新手安装指南](posts/Android.md)
+- [给 Android 用户的安装和使用指南](posts/Android.md)
 
 - [给 iOS 用户的安装和使用指南](posts/iOS.md)
 
