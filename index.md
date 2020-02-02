@@ -3,9 +3,7 @@
 **温馨提示**:  订购或者遇到问题请 [联系技术支持 Support](posts/Support.md);
 
 ### 电脑
-- [给 Win10 用户的新手安装指南](posts/Win10.md)
-
-- [给 Win10 用户的进阶指南 (未完成)](posts/Win10_Advanced.md)
+- [给 Win10 用户的安装指南](posts/Win10.md)
 
 - [给 MacOS 用户安装和使用指南](posts/MacOS.md)
 
@@ -14,17 +12,11 @@
 ### 手机
 - [给 Android 用户的新手安装指南](posts/Android.md)
 
-- [给 Android 用户的安全加持 (未完成)](posts/Android_Advanced.md)
-
 - [给 iOS 用户的安装和使用指南](posts/iOS.md)
 
 ## 翻墙后您可能需要的提示
 
 - [申请不到谷歌账号了, Android 该怎样下载靠谱的 App](posts/tips_download_app.md)
-
-- [怎样拥有一款安全的 Android, 并远离国区的应用市场 (未完成)]()
-
-- [怎样拥有一款安全的 iOS, 并远离国区的应用市场 (未完成)]()
 
 ## 资源集合
 
