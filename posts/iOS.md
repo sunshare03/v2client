@@ -32,3 +32,11 @@
 - 试试能否脸上 [youtube.com](https://youtube.com) (初次使用小火箭, 反应会比较慢, 可能要等待一会儿 (可能十来分钟) 才能连上网, 不过以后就正常了; 在此期间可以尝试下载其他浏览器试试 youtube, 比如 duckduckgo 或 firefox)
 
 ---
+
+**下一篇该看什么**: 
+
+- 想让其他设备也上网? 请 [回首页](../index.md)
+
+- 想要知道这个项目的来龙去脉或者加入贡献? 请翻过这堵墙查看 [V2ray Project](https://www.v2ray.com/)
+
+---
