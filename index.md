@@ -7,7 +7,7 @@
 
 - [给 MacOS 用户安装和使用指南](posts/MacOS.md)
 
-- Linux 或其他操作系统？请先在手机上翻过这堵再墙查看 [V2ray Project](https://www.v2ray.com/)
+- Linux 或其他操作系统？请用其他设备翻过这堵墙再查看 [V2ray Project](https://www.v2ray.com/)
 
 ### 手机
 - [给 Android 用户的安装和使用指南](posts/Android.md)
