@@ -36,6 +36,8 @@
 
 **下一篇该看什么**: 
 
+- 想看 [带图的操作](https://book.v2rayx.org/)
+
 - 想让其他设备也上网? 请 [回首页](../index.md)
 
 - 想要知道这个项目的来龙去脉或者加入贡献? 请翻过这堵墙查看 [V2ray Project](https://www.v2ray.com/)
