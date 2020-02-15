@@ -2,7 +2,7 @@
 
 # 给 MacOS 用户的安装和使用指南
 
-发布于 2020-01-30 | 更新于 2020-02-02
+发布于 2020-01-30 | 更新于 2020-02-15
 
 ---
 
@@ -17,7 +17,7 @@
 2. 需要开启允许“任何来源”以允许第三方应用, 请 [查看如何操作](https://jingyan.baidu.com/article/9f63fb9162e3e6c8400f0e30.html), 或者自行搜索解决方案;
 
 ## 下载, 安装, 并导入订阅链接
-1. 下载 [v2rayU](https://github.com/yanue/V2rayU/releases/download/1.5.1/V2rayU.dmg), 双击安装, 根据提示加入 Application;
+1. 下载 [v2rayU](https://github.com/yanue/V2rayU/releases/download/2.0.0/V2rayU.dmg), 双击安装, 根据提示加入 Application;
 
 2. 从 Application 中双击打开 `v2rayU`, 一般打开后不会有弹窗, 要到右上角托盘中找到 U 形图标, 右击下拉菜单, 选中 `订阅` (`Subscribe`);
 
