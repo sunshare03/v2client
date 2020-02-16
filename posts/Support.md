@@ -39,4 +39,6 @@
 
 - 不依赖于国内互联网环境的静态网站，电商网站，自媒体网站，带后台或无后台的 Web App ...;
 
-- 数据挖掘，数据可视化，资料搜集.
+- 数据挖掘，数据可视化，资料搜集...
+
+- *Imagination is more important than knowledge.  -- Einstein*
