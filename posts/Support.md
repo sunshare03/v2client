@@ -35,10 +35,4 @@
     - `两步验证` (`Two-Setp Verification`)
     - `设置额外密码` (`Set Additional Password`), 设置密码并确认, 设置恢复邮箱并验证以防忘记密码, 完成两部验证设置;
 
-## 我们可以提供的其他服务
 
-- 不依赖于国内互联网环境的静态网站，电商网站，自媒体网站，带后台或无后台的 Web App ...;
-
-- 数据挖掘，数据可视化，资料搜集...
-
-- *Imagination is more important than knowledge.  -- Einstein*
