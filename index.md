@@ -23,9 +23,9 @@
 
 - [我依然坚定地想要一个谷歌账号！](posts/tips_hide.md)
 
-- [获得美区 Apple ID, 体验完全的苹果, So Easy!](posts/tips_hide.md)
+- [我想获得美区的 Apple ID!](posts/tips_hide.md)
 
-- [你获得的不仅仅是一个科学上网工具！](posts/tips_hide.md)
+- [科学上网之外的事！](posts/tips_hide.md)
 
 
 ## 资源集合
