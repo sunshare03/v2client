@@ -75,7 +75,7 @@
 
     - 安卓回到`隐私与安全` (`Privacy and Security`)，上下滑动找到 `删除同步联系人`（`Delete Synced Contacts`)，同时可以关闭 `同步联系人`（`Sync Contacts`) 开关。该步骤会阻止设备之间的联系人的同步，便利性和安全性的取舍。
   
-  - 苹果在`隐私与安全` (`Privacy and Security`) 的 `Data` (`数据`)中找到。
+    - 苹果在`隐私与安全` (`Privacy and Security`) 的 `Data` (`数据`)中找到。
   
   
 
