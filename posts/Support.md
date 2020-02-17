@@ -34,5 +34,7 @@
     - `隐私与安全` (`Privacy and Security`)
     - `两步验证` (`Two-Setp Verification`)
     - `设置额外密码` (`Set Additional Password`), 设置密码并确认, 设置恢复邮箱并验证以防忘记密码, 完成两部验证设置;
+    
+6. [更多关于 Telegram 的用法](tips_telegram.md)
 
 
