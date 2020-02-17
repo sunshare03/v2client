@@ -19,6 +19,8 @@
 
 - [申请不到谷歌账号了, Android 该怎样下载靠谱的 App](posts/tips_download_app.md)
 
+- [使用 Telegram 的正确姿势](posts/tips_telegram.md)
+
 - [我依然坚定地想要一个谷歌账号！](posts/tips_hide.md)
 
 - [获得美区 Apple ID, 体验完全的苹果, So Easy!](posts/tips_hide.md)
