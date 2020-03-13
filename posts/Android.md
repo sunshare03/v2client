@@ -19,7 +19,7 @@
 - 重新用 Firefox 浏览器打开本文, 本文提及的所有链接也用该浏览器打开;
 
 ## 安装, 订阅, 以及使用
-- 点击 [V2rayNG 备用链接](../tools/v2rayNG.apk) 下载并安装;
+- 点击 [V2rayNG 备用链接](https://github.com/sunshare03/v2client/blob/gh-pages/tools/v2rayNG.apk) 下载并安装;
 
 - 打开刚才装上的 App (V 图标), 点击左上角菜单按钮 (三横), 点击 `订阅设置`, 点击右上角 `+`, 第一行备注随便填, 第二行填的地址需要发送邮件至 sunshare03@gmail.com 订购;
 
