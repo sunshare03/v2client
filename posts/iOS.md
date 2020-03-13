@@ -17,7 +17,7 @@
 
     - 从 [Apple ID share](https://wohaobang.cn/) 处借用一个美区的 Apple ID, 从 `设置` 进入 `Apple store` 登陆后再下载 `shadowrocket`;
     
-    - 从别人指定的分享链接 [https://dwz.pm/lg](https://free.shadowrocket.online/) 下载 (感谢分享者, 且用且珍惜), 仅限用 `Safari` 打开;
+    - 从其他人指定的分享链接 [https://dwz.pm/lg](https://free.shadowrocket.online/) 下载 (感谢分享者, 且用且珍惜), 仅限用 `Safari` 打开;
     
 ## 导入订阅地址
 
