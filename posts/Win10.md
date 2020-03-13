@@ -27,7 +27,7 @@
 5. 检查电脑操作系统是 x32 位还是 x64 位: 右击 `此电脑` - 点击 `属性`, 查看 `操作系统类型`
 
 ## 下载并导入订阅链接
-1. V2ray 是一款免安装的工具, 下载后解压即可使用. x64 位用户下载 [v2rayN-Core](https://github.com/2dust/v2rayN/releases/download/3.5/v2rayN-Core.zip), 将压缩包解压到某个文件夹下 (比如`D:\Program Files\v2rayN-Core`)即可; x32 位用户先下载 [v2ay core (x32)](https://github.com/v2ray/v2ray-core/releases/download/v4.22.1/v2ray-windows-32.zip) 解压到某个文件夹下, 然后下载 [V2rayN](https://github.com/2dust/v2rayN/releases/download/3.5/v2rayN.zip) 并解压, 把里面的 `v2rayN.exe` 移动到刚才 `v2ray core` 的主目录下, 让它与 `v2ray.exe` 和 `config.json` 等其他文件位于相同位置即可;
+1. V2ray 是一款免安装的工具, 下载后解压即可使用. x64 位用户下载 [v2rayN-Core](https://github.com/2dust/v2rayN/releases/download/3.7/v2rayN-Core.zip), 将压缩包解压到某个文件夹下 (比如`D:\Program Files\v2rayN-Core`)即可; x32 位用户先下载 [v2ay core (x32)](https://github.com/v2ray/v2ray-core/releases/download/v4.22.1/v2ray-windows-32.zip) 解压到某个文件夹下, 然后下载 [V2rayN](https://github.com/2dust/v2rayN/releases/download/3.7/v2rayN.zip) 并解压, 把里面的 `v2rayN.exe` 移动到刚才 `v2ray core` 的主目录下, 让它与 `v2ray.exe` 和 `config.json` 等其他文件位于相同位置即可;
 
 2. 双击 `V2rayN.exe` 打开进入主界面 (如果双击打开没反应, 请检查是否已经隐身于电脑右下角的小托盘里);
 
