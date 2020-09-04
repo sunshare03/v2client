@@ -25,8 +25,6 @@
 
 - [我想获得美区的 Apple ID!](posts/tips_hide.md)
 
-- [科学上网之外的事！](posts/tips_hide.md)
-
 
 ## 资源集合
 
