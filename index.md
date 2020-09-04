@@ -1,6 +1,6 @@
 ## 各平台安装说明
 
-**温馨提示**:  订购或者遇到问题请 [联系技术支持 Support](posts/Support.md);
+
 
 ### 电脑
 - [给 Win10 用户的安装和使用指南](posts/Win10.md)
@@ -54,9 +54,6 @@
   - [Apple ID share](https://wohaobang.cn/) (Login from `Setting - App Store` ONLY)
   - [ShadowRocket share](https://free.shadowrocket.online/): https://dwz.pm/lg (`Safari` ONLY)
 
----
-
-## [点击这里鼓励我们 (订购)](posts/encourage.md)
 
 
 
